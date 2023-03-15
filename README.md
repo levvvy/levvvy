@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Levvy, a software developer passionate about creating things that help people. My interests lie in a broad range of fields, from web development to machine learning, and I'm always eager to learn more.
+I'm Levvvy, a software developer passionate about creating things that help people. My interests lie in a broad range of fields, from web development to machine learning, and I'm always eager to learn more.
 
 ## 🔭 Current projects
 
