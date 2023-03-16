@@ -38,13 +38,3 @@ In my free time, I enjoy playing video games and learning new languages (both pr
 </p>
 
 ---
-
-### 🚀 Latest projects
-
-<!-- START_SECTION:activity -->
-1. 🗣 Commented on [#1](https://github.com/levvvy/new-project/issues/1) in [levvvy/new-project](https://github.com/levvvy/new-project)
-2. 🎉 Merged PR [#2](https://github.com/levvvy/new-project/pull/2) in [levvvy/new-project](https://github.com/levvvy/new-project)
-3. ❗️ Closed issue [#3](https://github.com/levvvy/new-project/issues/3) in [levvvy/new-project](https://github.com/levvvy/new-project)
-4. 🗣 Commented on [#4](https://github.com/levvvy/new-project/issues/4) in [levvvy/new-project](https://github.com/levvvy/new-project)
-5. ❗️ Opened issue [#5](https://github.com/levvvy/new-project/issues/5) in [levvvy/new-project](https://github.com/levvvy/new-project)
-<!-- END_SECTION:activity -->
