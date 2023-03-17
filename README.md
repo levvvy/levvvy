@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ Skills & Technologies
 
-![Bash](https://img.shields.io/badge/-Python-3776AB?logo=Bash&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-3776AB?logo=Bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white)
