@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🚀 About Me
 
-- 👨‍💻 I'm experienced in various programming languages, including Python, JavaScript, and Java.
 - 🌱 I’m currently learning about Machine Learning, Blockchain, and Cloud Technologies.
 - 📖 I enjoy reading about technology, software architecture, and programming best practices.
 - 🤝 I’m looking to collaborate on open-source projects and contribute to the community.
